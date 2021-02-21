@@ -1,0 +1,51 @@
+﻿body {
+    background-color: #196376;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+div.intro {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+    color: white;
+    font-size: 1em;
+    background-color: #b4223f;
+    opacity: 0.8;
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+a.hiddenlinks {
+    color: white;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+
+a.hiddenlinks:hover {
+    color: #000066;
+    font-size: 1em;
+    text-decoration: underline;
+}
+
+#particles-js {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.particles-js-canvas-el {
+    position: absolute;
+    z-index: -1;
+}
