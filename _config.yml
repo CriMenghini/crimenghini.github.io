@@ -19,20 +19,26 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cristina Menghini
-email: your-email@example.com
+email: cmenghin@cs.brown.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ciao visitor, this is Cristina! 👋
+  I'm a postdoc in the Computer Science department at Brown University 🇺🇸, where I do fun research in the BATS lab led by Stephen Bach. As data is changing our notion of the world, 
+  I contribute to this change by either designing models that learn when only limited amount of labeled data is available, or understanding humans behaviours and interactions with events and products, with a computational approach.  
+  
+  I landed at Brown as Visiting Ph.D. student in the BigData group, where I worked with Eli Upfal and Matteo Riondato. In July 2021, I defended my Ph.D. in Computer Engineering from Sapienza University 🇮🇹, advised by Aris Anagnostopoulos and Stefano Leonardi.
+  I earned my master's degree in Data Science at Sapienza University, after one-year exchange in the School of Computer and Communication Sciences at EPFL 🇨🇭, where I joined Data Science Lab led by Robert West.
+  Before that, I got a bachelor degree at Sapienza University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
