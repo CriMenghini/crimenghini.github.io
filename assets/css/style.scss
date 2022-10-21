@@ -1,0 +1,57 @@
+---
+---
+
+$pumpkin: rgba(109, 16, 130, 0.677);
+$header: $pumpkin;
+
+@import "{{ site.theme }}";
+
+header {
+  border-bottom: 0.5px solid $pumpkin;
+  background: rgb(255, 255, 255);
+}
+
+header h1 {
+  color: $pumpkin;
+}
+
+body {
+    margin: 0; 
+    padding: 0; 
+    background: #ffffff 0 0; 
+    color: #eaeaea; 
+    font-size: 13px; 
+    line-height: 1.5; 
+    font-family: Andale Mono, monospace;
+}
+
+.container { 
+     width: 40%; 
+}
+
+header h1 { 
+    font-size: 25px; 
+    line-height: 1.5; 
+    margin: 0 0 0 0px; 
+    font-weight: bold; 
+    font-family: Andale Mono, monospace; 
+    color: $pumpkin; text-shadow: 0 1px 1px rgb(255, 255, 255), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1); 
+    letter-spacing: -1px; -webkit-font-smoothing: antialiased; }
+
+header h1:before { 
+    content: "";
+     font-size: 24px;
+}
+
+#main_content { 
+    color:rgb(0, 0, 0)}
+
+a {
+    color: rgba(109, 16, 130, 0.677); 
+    text-shadow: 0 0 0px rgba(104, 182, 255, 0.5); 
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    font-weight: normal; font-family: Andale Mono, monospace;  
+}
+    
