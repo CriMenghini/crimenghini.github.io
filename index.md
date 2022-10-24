@@ -7,11 +7,25 @@ Ciao visitor, this is Cristina! 👋
 
 I'm a postdoc in the Computer Science department at Brown University 🇺🇸, where I do fun research in the BATS lab led by [Stephen Bach](https://cs.brown.edu/people/sbach/). 
 As data is changing our notion of the world, 
-I contribute to this change by either teaching models to learn from a few labeled data, or understanding humans behaviours, with a computational approach.  
+I contribute to this change by either designing models to learn from a few labeled data, or understanding humans behaviours, with a computational approach.  
 
-I landed at Brown as Visiting Ph.D. student and worked with [Eli Upfal](https://cs.brown.edu/people/eupfal/) and [Matteo Riondato](https://matteo.rionda.to/). In July 2021, I defended my Ph.D. in [Computer Engineering](https://corsidilaurea.uniroma1.it/en/corso/2021/30430/home) from Sapienza University 🇮🇹, advised by [Aris Anagnostopoulos](http://aris.me/) and [Stefano Leonardi](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/home).
+I arrived at Brown as Visiting Ph.D. student and worked with [Eli Upfal](https://cs.brown.edu/people/eupfal/) and [Matteo Riondato](https://matteo.rionda.to/). In July 2021, I defended my Ph.D. thesis in [Computer Engineering](https://corsidilaurea.uniroma1.it/en/corso/2021/30430/home) from Sapienza University 🇮🇹, advised by [Aris Anagnostopoulos](http://aris.me/) and [Stefano Leonardi](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/home).
 I earned my master's degree in Data Science at Sapienza University, after one-year exchange in the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/) at EPFL 🇨🇭, where I joined [Data Science Lab](https://dlab.epfl.ch/) led by Robert West.
 Before that, I got a bachelor degree in Statistics, Economics and Finance at Sapienza University.
+
+<p float="left">
+  <a href="https://github.com/CriMenghini">
+    <img src="/images/GitHub-Mark-32px.png" width="15" style="text-decoration:none">
+  </a>
+  prova
+  <a href="https://github.com/CriMenghini">
+    <img src="/images/GitHub-Mark-32px.png" width="15" style="text-decoration:none">
+  </a>
+  <a href="https://github.com/CriMenghini">
+    <img src="/images/GitHub-Mark-32px.png" width="15" style="text-decoration:none">
+  </a>
+</p>
+
 
 ## 📻 News 
 
