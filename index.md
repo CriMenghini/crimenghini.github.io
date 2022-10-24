@@ -3,7 +3,7 @@ layout: default
 ---
 
 Ciao visitor, this is Cristina! 👋
-<img align="right" src="/images/photo_website.png" alt="drawing" width="250">
+<img align='right' src="/images/photo_website.png" width="250">
 
 I'm a postdoc in the Computer Science department at Brown University 🇺🇸, where I do fun research in the BATS lab led by [Stephen Bach](https://cs.brown.edu/people/sbach/). 
 As data is changing our notion of the world, 
@@ -13,18 +13,15 @@ I arrived at Brown as Visiting Ph.D. student and worked with [Eli Upfal](https:/
 I earned my master's degree in Data Science at Sapienza University, after one-year exchange in the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/) at EPFL 🇨🇭, where I joined [Data Science Lab](https://dlab.epfl.ch/) led by Robert West.
 Before that, I got a bachelor degree in Statistics, Economics and Finance at Sapienza University.
 
-<p float="left">
-  <a href="https://github.com/CriMenghini">
-    <img src="/images/GitHub-Mark-32px.png" width="15" style="text-decoration:none">
-  </a>
-  prova
-  <a href="https://github.com/CriMenghini">
-    <img src="/images/GitHub-Mark-32px.png" width="15" style="text-decoration:none">
-  </a>
-  <a href="https://github.com/CriMenghini">
-    <img src="/images/GitHub-Mark-32px.png" width="15" style="text-decoration:none">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/cristina-menghini-patk/" style="text-decoration:none">
+  <img src="/images/LinkedIn_logo_initials.png" width="20">
+</a>
+<a href="https://github.com/CriMenghini" style="text-decoration:none">
+  <img src="/images/GitHub-Mark-32px.png" width="20">
+</a>
+<a href="https://scholar.google.it/citations?user=TDk55OQAAAAJ&hl=it" style="text-decoration:none">
+  <img src="/images/scholar_2.png" width="20">
+</a>
 
 
 ## 📻 News 
@@ -36,65 +33,44 @@ Before that, I got a bachelor degree in Statistics, Economics and Finance at Sap
 
 ## 📝 Pubblications
 
-1. **Reducing polarization and increasing
-diverse navigability in graphs by inserting edges and swapping edge weights** 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-_Data Mining
-and Knowledge Discovery 2022_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+
+1. **Reducing polarization and increasing diverse navigability in graphs by inserting edges and swapping edge weights**  
+_Data Mining and Knowledge Discovery 2022_      
 S. Haddadan, <u>C. Menghini</u>, M. Riondato, E. Upfal
 
 
-2.  **Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes** 
-&nbsp;&nbsp;&nbsp;
-_Neurips 2022_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  
-A. Mazzetto *, <u>C. Menghini</u> *, A. Yuan, E. Upfal, S. H. Bach.
+2.  **Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes**  
+_Neurips 2022_  
+A. Mazzetto *, <u>C. Menghini</u> *, A. Yuan, E. Upfal, S. H. Bach
 
-3. **The Drift of #MyBodyMyChoice Discourse on Twitter**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_WebSci 2022_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<u>C. Menghini</u>, J. Uhr, S. Haddadan, A. Champagne, B. Sandstede, S. Ramachandran. 
+3. **The Drift of #MyBodyMyChoice Discourse on Twitter**  
+_WebSci 2022_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>  
+<u>C. Menghini</u>, J. Uhr, S. Haddadan, A. Champagne, B. Sandstede, S. Ramachandran
 
-4. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_Machine Learning and Systems 2022_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+4. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**  
+_Machine Learning and Systems 2022_  
 W. Piriyakulkij, <u>C. Menghini</u>, R. Briden, N. V. Nayak, J. Zhu, E. Raisi, S. H. Bach
 
-5. **Algorithms for fair k-clustering with multiple protected attributes**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_Operations Research Letters 2021_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+5. **Algorithms for fair k-clustering with multiple protected attributes**  
+_Operations Research Letters 2021_  
 M. Bohm, A. Fazzone, S. Leonardi,  <u>C. Menghini</u>, C. Schwiegelshohn
 
-6. **RePBubLik: Reducing polarized bubble radius with link insertions**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_WSDM 2021_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+6. **RePBubLik: Reducing polarized bubble radius with link insertions**  
+_WSDM 2021_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>  
 S. Haddadan, <u>C. Menghini</u>, M. Riondato, E. Upfal
 
-7. **How Inclusive Are Wikipedia’s Hyperlinks in Articles Covering Polarizing Topics?**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_Big Data 2021_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+7. **How Inclusive Are Wikipedia’s Hyperlinks in Articles Covering Polarizing Topics?**  
+_Big Data 2021_  
 <u>C. Menghini</u>, A. Anagnostopoulos, E. Upfal.
 
-8. **Spectral Relaxations and Fair Densest Subgraphs**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_CIKM 2021_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+8. **Spectral Relaxations and Fair Densest Subgraphs**  
+_CIKM 2021_  
 A. Anagnostopoulos, L. Becchetti, A. Fazzone, <u>C. Menghini</u>, C. Schwiegelshohn
 
-9. **Wikipedia Polarization and Its Effects on Navigation Paths**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_Big Data 2019_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+9. **Wikipedia Polarization and Its Effects on Navigation Paths**  
+_Big Data 2019_  
 <u>C. Menghini</u>, A. Anagnostopoulos, E. Upfal
 
-10. **Compiling Questions into Balanced Quizzes about Documents**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-_CIKM 2018_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+10. **Compiling Questions into Balanced Quizzes about Documents**  
+_CIKM 2018_  
 <u>C. Menghini</u>, J. Dehler-Zufferey, R. West
