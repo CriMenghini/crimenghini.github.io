@@ -34,53 +34,50 @@ Before that, I got a bachelor degree in Statistics, Economics and Finance at Sap
 ## 📝 Pubblications
 
 
-1. **Reducing polarization and increasing diverse navigability in graphs by inserting edges and swapping edge weights**  
+1. **Reducing polarization and increasing diverse navigability in graphs by inserting edges and swapping edge weights** [[pdf](https://matteo.rionda.to/papers/HaddadanEtAl-RePBubLik-DMKD.pdf)]
 _Data Mining and Knowledge Discovery 2022_      
 S. Haddadan, <u>C. Menghini</u>, M. Riondato, E. Upfal
-[[pdf](https://matteo.rionda.to/papers/HaddadanEtAl-RePBubLik-DMKD.pdf)]
 
 
-2.  **Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes**  
+2.  **Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes** [[pdf](https://arxiv.org/pdf/2205.13068.pdf)]
 _Neurips 2022_  
 A. Mazzetto *, <u>C. Menghini</u> *, A. Yuan, E. Upfal, S. H. Bach
-[[pdf](https://arxiv.org/pdf/2205.13068.pdf)]
 
-3. **The Drift of #MyBodyMyChoice Discourse on Twitter**  
+
+3. **The Drift of #MyBodyMyChoice Discourse on Twitter** [[pdf](https://arxiv.org/pdf/2205.04898.pdf)]
 _WebSci 2022_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>  
 <u>C. Menghini</u>, J. Uhr, S. Haddadan, A. Champagne, B. Sandstede, S. Ramachandran
-[[pdf](https://arxiv.org/pdf/2205.04898.pdf)]
 
-4. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**  
+
+4. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data** [[pdf](https://proceedings.mlsys.org/paper/2022/file/c0e190d8267e36708f955d7ab048990d-Paper.pdf)]
 _Machine Learning and Systems 2022_  
 W. Piriyakulkij, <u>C. Menghini</u>, R. Briden, N. V. Nayak, J. Zhu, E. Raisi, S. H. Bach
-[[pdf](https://proceedings.mlsys.org/paper/2022/file/c0e190d8267e36708f955d7ab048990d-Paper.pdf)]
 
-5. **Algorithms for fair k-clustering with multiple protected attributes**  
+5. **Algorithms for fair k-clustering with multiple protected attributes** [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167637721001309)]
 _Operations Research Letters 2021_  
 M. Bohm, A. Fazzone, S. Leonardi,  <u>C. Menghini</u>, C. Schwiegelshohn
-[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167637721001309)]
 
-6. **RePBubLik: Reducing polarized bubble radius with link insertions**  
+
+6. **RePBubLik: Reducing polarized bubble radius with link insertions** [[pdf](https://dl.acm.org/doi/pdf/10.1145/3437963.3441825)]
 _WSDM 2021_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>  
 S. Haddadan, <u>C. Menghini</u>, M. Riondato, E. Upfal
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3437963.3441825)]
 
-7. **How Inclusive Are Wikipedia’s Hyperlinks in Articles Covering Polarizing Topics?**  
+
+7. **How Inclusive Are Wikipedia’s Hyperlinks in Articles Covering Polarizing Topics?** [[pdf](https://arxiv.org/pdf/2007.08197.pdf)] 
 _Big Data 2021_  
 <u>C. Menghini</u>, A. Anagnostopoulos, E. Upfal
-[[pdf](https://arxiv.org/pdf/2007.08197.pdf)]
 
-8. **Spectral Relaxations and Fair Densest Subgraphs**  
+
+8. **Spectral Relaxations and Fair Densest Subgraphs** [[pdf](https://dl.acm.org/doi/abs/10.1145/3340531.3412036)]
 _CIKM 2021_  
 A. Anagnostopoulos, L. Becchetti, A. Fazzone, <u>C. Menghini</u>, C. Schwiegelshohn
-[[pdf](https://dl.acm.org/doi/abs/10.1145/3340531.3412036)]
 
-9. **Wikipedia Polarization and Its Effects on Navigation Paths**  
+
+9. **Wikipedia Polarization and Its Effects on Navigation Paths** [[pdf](https://par.nsf.gov/servlets/purl/10183276)]
 _Big Data 2019_  
 <u>C. Menghini</u>, A. Anagnostopoulos, E. Upfal
-[[pdf](https://par.nsf.gov/servlets/purl/10183276)]
 
-10. **Compiling Questions into Balanced Quizzes about Documents**  
+
+10. **Compiling Questions into Balanced Quizzes about Documents** [[pdf](https://dlab.epfl.ch/people/west/pub/Menghini-Dehler-West_CIKM-18.pdf)]
 _CIKM 2018_  
 <u>C. Menghini</u>, J. Dehler-Zufferey, R. West
-[[pdf](https://dlab.epfl.ch/people/west/pub/Menghini-Dehler-West_CIKM-18.pdf)]
