@@ -31,7 +31,7 @@ Before that, I got a bachelor degree in Statistics, Economics and Finance at Sap
 * (Aug '22) I presented [TAGLETS](https://github.com/BatsResearch/taglets) at [MLSys 2022](https://mlsys.org/Conferences/2022/Dates) in Santa Clara!
 * (Jun '22) [Our work](https://arxiv.org/pdf/2205.04898.pdf) demonstrating that #MyBodyMyChoice is not uniquely associated to women's rights after Covid-19 has received an honorable mention for the best paper award at [WebSci 2022](https://websci22.webscience.org/)! 🏆
 
-## 📝 Pubblications
+## 📝 Publications
 
 
 1. **Reducing polarization and increasing diverse navigability in graphs by inserting edges and swapping edge weights**  
