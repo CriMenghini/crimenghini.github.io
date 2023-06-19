@@ -6,12 +6,12 @@ Ciao visitor, this is Cristina! 👋
 <img align='right' src="/images/photo_website.png" width="250">
 
 I'm a postdoc in the Computer Science department at Brown University 🇺🇸, where I do fun research in the BATS lab led by [Stephen Bach](https://cs.brown.edu/people/sbach/). 
-As data is changing our notion of the world, 
-I contribute to this change by either designing models to learn from a few labeled data, or understanding humans behaviours, with a computational approach.  
+I study how we can democratize the usage of large models by investigating efficient approaches to adapt them to specialized domains.
 
 I arrived at Brown as Visiting Ph.D. student and worked with [Eli Upfal](https://cs.brown.edu/people/eupfal/) and [Matteo Riondato](https://matteo.rionda.to/). In July 2021, I defended my Ph.D. thesis in [Computer Engineering](https://corsidilaurea.uniroma1.it/en/corso/2021/30430/home) from Sapienza University 🇮🇹, advised by [Aris Anagnostopoulos](http://aris.me/) and [Stefano Leonardi](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/home).
-I earned my master's degree in Data Science at Sapienza University, after one-year exchange in the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/) at EPFL 🇨🇭, where I joined [Data Science Lab](https://dlab.epfl.ch/) led by Robert West.
-Before that, I got a bachelor degree in Statistics, Economics and Finance at Sapienza University.
+
+I earned my master's degree in Data Science at Sapienza University, after a one-year exchange in the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/) at EPFL 🇨🇭, where I joined [Data Science Lab](https://dlab.epfl.ch/) led by Robert West.
+Before that, I got a bachelor's degree in Statistics, Economics, and Finance at Sapienza University.
 
 <a href="https://www.linkedin.com/in/cristina-menghini-patk/" style="text-decoration:none">
   <img src="/images/LinkedIn_logo_initials.png" width="20">
@@ -26,7 +26,8 @@ Before that, I got a bachelor degree in Statistics, Economics and Finance at Sap
 
 ## 📻 News 
 
-* (Oct '22) I'm looking for jobs in industry!
+* (Jun '23) I studied for a while how we can exploit pseudolabels in many learning settings to improve vision-language models like CLIP. Check out what we found in [this new paper](https://arxiv.org/abs/2306.01669)!
+* (Feb '23) Register to the [Woman in Data Science datathon](https://dsi.brown.edu/events/wids-providence) organized by DSI at Brown University!
 * (Sept '22) Our paper on [theoretical limitis of zero-shot learning](https://arxiv.org/pdf/2205.13068.pdf) has been accepted at [NeurIPS 2022](https://nips.cc/)!
 * (Aug '22) I presented [TAGLETS](https://github.com/BatsResearch/taglets) at [MLSys 2022](https://mlsys.org/Conferences/2022/Dates) in Santa Clara!
 * (Jun '22) [Our work](https://arxiv.org/pdf/2205.04898.pdf) demonstrating that #MyBodyMyChoice is not uniquely associated to women's rights after Covid-19 has received an honorable mention for the best paper award at [WebSci 2022](https://websci22.webscience.org/)! 🏆
