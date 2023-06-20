@@ -28,6 +28,7 @@ Before that, I got a bachelor's degree in Statistics, Economics, and Finance at 
 
 * (Jun '23) I studied for a while how we can exploit pseudolabels in many learning settings to improve vision-language models like CLIP. Check out what we found in [this new paper](https://arxiv.org/abs/2306.01669)!
 * (Feb '23) Register to the [Woman in Data Science datathon](https://dsi.brown.edu/events/wids-providence) organized by DSI at Brown University!
+* (Dec '22) I gave a talk about [Wikipedia's structural bias](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671943) at COSC-355 Network Science @ Amherst College!
 * (Sept '22) Our paper on [theoretical limitis of zero-shot learning](https://arxiv.org/pdf/2205.13068.pdf) has been accepted at [NeurIPS 2022](https://nips.cc/)!
 * (Aug '22) I presented [TAGLETS](https://github.com/BatsResearch/taglets) at [MLSys 2022](https://mlsys.org/Conferences/2022/Dates) in Santa Clara!
 * (Jun '22) [Our work](https://arxiv.org/pdf/2205.04898.pdf) demonstrating that #MyBodyMyChoice is not uniquely associated to women's rights after Covid-19 has received an honorable mention for the best paper award at [WebSci 2022](https://websci22.webscience.org/)! 🏆
