@@ -5,8 +5,8 @@ layout: default
 Ciao visitor, this is Cristina! 👋
 <img align='right' src="/images/photo_website.png" width="250">
 
-I'm a postdoc in the Computer Science department at Brown University 🇺🇸, where I do fun research in the BATS lab led by [Stephen Bach](https://cs.brown.edu/people/sbach/). 
-I study how we can democratize the usage of large models by investigating efficient approaches to adapt them to specialized domains.
+I'm a postdoc in the Data Science Institute at Brown University 🇺🇸, and I'm part of BATS lab 🦇 led by Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/). 
+My research focuses on developing versatile and responsible AI systems, addressing both the practical challenges of adapting models to new tasks and the critical need to ensure the ethical and safe deployment of advanced AI technologies.
 
 I arrived at Brown as Visiting Ph.D. student and worked with [Eli Upfal](https://cs.brown.edu/people/eupfal/) and [Matteo Riondato](https://matteo.rionda.to/). In July 2021, I defended my Ph.D. thesis in [Computer Engineering](https://corsidilaurea.uniroma1.it/en/corso/2021/30430/home) from Sapienza University 🇮🇹, advised by [Aris Anagnostopoulos](http://aris.me/) and [Stefano Leonardi](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/home).
 
@@ -26,7 +26,9 @@ Before that, I got a bachelor's degree in Statistics, Economics, and Finance at 
 
 ## 📻 News 
 
-* (Jun '23) I studied for a while how we can exploit pseudolabels in many learning settings to improve vision-language models like CLIP. Check out what we found in [this new paper](https://arxiv.org/abs/2306.01669)!
+* (Sept '23) I'll see you all in New Orleans! Our work on [exploring strategies for using CLIP as a pseudolabeler for prompt tuning](https://arxiv.org/abs/2306.01669) will appear in NeurIPS 2023!
+* (Sept '23) I joined the Data Science Institute at Brown University as postdoctoral research associate!
+* (May '23) I studied for a while how we can exploit pseudolabels in many learning settings to improve vision-language models like CLIP. Check out what we found in [this new paper](https://arxiv.org/abs/2306.01669)!
 * (Feb '23) Register to the [Woman in Data Science datathon](https://dsi.brown.edu/events/wids-providence) organized by DSI at Brown University!
 * (Dec '22) I gave a talk about [Wikipedia's structural bias](https://arxiv.org/pdf/2007.08197.pdf) at COSC-355 Network Science @ Amherst College!
 * (Sept '22) Our paper on [theoretical limitis of zero-shot learning](https://arxiv.org/pdf/2205.13068.pdf) has been accepted at [NeurIPS 2022](https://nips.cc/)!
@@ -36,7 +38,7 @@ Before that, I got a bachelor's degree in Statistics, Economics, and Finance at 
 ## 📝 Publications
 
 1. **Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**  
-_Preprint_      
+_To be appearing at NeurIPS 2023_      
 <u>C. Menghini</u>, A. Delworth, S. H. Bach  
 [[pdf](https://arxiv.org/abs/2306.01669)][[code](https://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
 
