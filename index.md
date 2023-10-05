@@ -38,64 +38,69 @@ Before that, I got a bachelor's degree in Statistics, Economics, and Finance at 
 
 ## 📝 Publications
 
-1. **Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**  
+1. **Low-Resource Languages Jailbreak GPT-4**  
+_Under review_      
+Z.-X. Yong, <u>C. Menghini</u>, S. H. Bach  
+[[pdf](https://arxiv.org/abs/2310.02446)]
+
+2. **Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**  
 _To be appearing at NeurIPS 2023_      
 <u>C. Menghini</u>, A. Delworth, S. H. Bach  
 [[pdf](https://arxiv.org/abs/2306.01669)][[code](https://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
 
-2. **Reducing polarization and increasing diverse navigability in graphs by inserting edges and swapping edge weights**  
+3. **Reducing polarization and increasing diverse navigability in graphs by inserting edges and swapping edge weights**  
 _Data Mining and Knowledge Discovery 2022_      
 S. Haddadan, <u>C. Menghini</u>, M. Riondato, E. Upfal  
 [[pdf](https://matteo.rionda.to/papers/HaddadanEtAl-RePBubLik-DMKD.pdf)]
 
-3.  **Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes**  
+4.  **Tight Lower Bounds on Worst-Case Guarantees for Zero-Shot Learning with Attributes**  
 _Neurips 2022_  
 A. Mazzetto *, <u>C. Menghini</u> *, A. Yuan, E. Upfal, S. H. Bach  
 [[pdf](https://arxiv.org/pdf/2205.13068.pdf)]
 
 
-4. **The Drift of #MyBodyMyChoice Discourse on Twitter**  
+5. **The Drift of #MyBodyMyChoice Discourse on Twitter**  
 _WebSci 2022_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>  
 <u>C. Menghini</u>, J. Uhr, S. Haddadan, A. Champagne, B. Sandstede, S. Ramachandran  
 [[pdf](https://arxiv.org/pdf/2205.04898.pdf)]  
 
 
-5. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**  
+6. **TAGLETS: A System for Automatic Semi-Supervised Learning with Auxiliary Data**  
 _Machine Learning and Systems 2022_  
 W. Piriyakulkij, <u>C. Menghini</u>, R. Briden, N. V. Nayak, J. Zhu, E. Raisi, S. H. Bach  
 [[pdf](https://proceedings.mlsys.org/paper/2022/file/c0e190d8267e36708f955d7ab048990d-Paper.pdf)]  
 
-6. **Algorithms for fair k-clustering with multiple protected attributes**  
+7. **Algorithms for fair k-clustering with multiple protected attributes**  
 _Operations Research Letters 2021_  
 M. Bohm, A. Fazzone, S. Leonardi,  <u>C. Menghini</u>, C. Schwiegelshohn  
 [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0167637721001309)]  
 
 
-7. **RePBubLik: Reducing polarized bubble radius with link insertions**  
+8. **RePBubLik: Reducing polarized bubble radius with link insertions**  
 _WSDM 2021_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award Honorable Mention**</span>  
 S. Haddadan, <u>C. Menghini</u>, M. Riondato, E. Upfal  
 [[pdf](https://dl.acm.org/doi/pdf/10.1145/3437963.3441825)]  
 
 
-8. **How Inclusive Are Wikipedia’s Hyperlinks in Articles Covering Polarizing Topics?**  
+9. **How Inclusive Are Wikipedia’s Hyperlinks in Articles Covering Polarizing Topics?**  
 _Big Data 2021_  
 <u>C. Menghini</u>, A. Anagnostopoulos, E. Upfal  
 [[pdf](https://arxiv.org/pdf/2007.08197.pdf)]   
 
 
-9. **Spectral Relaxations and Fair Densest Subgraphs**  
+10. **Spectral Relaxations and Fair Densest Subgraphs**  
 _CIKM 2021_  
 A. Anagnostopoulos, L. Becchetti, A. Fazzone, <u>C. Menghini</u>, C. Schwiegelshohn  
 [[pdf](https://dl.acm.org/doi/abs/10.1145/3340531.3412036)]  
 
 
-10. **Wikipedia Polarization and Its Effects on Navigation Paths**  
+11. **Wikipedia Polarization and Its Effects on Navigation Paths**  
 _Big Data 2019_  
 <u>C. Menghini</u>, A. Anagnostopoulos, E. Upfal  
 [[pdf](https://par.nsf.gov/servlets/purl/10183276)]  
 
 
-11. **Compiling Questions into Balanced Quizzes about Documents**  
+12. **Compiling Questions into Balanced Quizzes about Documents**  
 _CIKM 2018_  
 <u>C. Menghini</u>, J. Dehler-Zufferey, R. West  
 [[pdf](https://dlab.epfl.ch/people/west/pub/Menghini-Dehler-West_CIKM-18.pdf)]
