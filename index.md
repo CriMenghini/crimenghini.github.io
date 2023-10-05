@@ -28,7 +28,7 @@ Before that, I got a bachelor's degree in Statistics, Economics, and Finance at 
 
 * (Sept '23) We found another good reason why we shouldn't leave low-resource languages behind: [they jailbreak GPT-4](https://arxiv.org/abs/2310.02446)!
 * (Sept '23) I'll see you all in New Orleans! Our work on [exploring strategies for using CLIP as a pseudolabeler for prompt tuning](https://arxiv.org/abs/2306.01669) will appear in NeurIPS 2023!
-* (Sept '23) I joined the Data Science Institute at Brown University as postdoctoral research associate!
+* (Sept '23) I joined the [Data Science Institute](https://dsi.brown.edu/) at Brown University as postdoctoral research associate!
 * (May '23) I studied for a while how we can exploit pseudolabels in many learning settings to improve vision-language models like CLIP. Check out what we found in [this new paper](https://arxiv.org/abs/2306.01669)!
 * (Feb '23) Register to the [Woman in Data Science datathon](https://dsi.brown.edu/events/wids-providence) organized by DSI at Brown University!
 * (Dec '22) I gave a talk about [Wikipedia's structural bias](https://arxiv.org/pdf/2007.08197.pdf) at COSC-355 Network Science @ Amherst College!
