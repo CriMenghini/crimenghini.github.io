@@ -5,7 +5,7 @@ layout: default
 Ciao visitor, this is Cristina! 👋
 <img align='right' src="/images/photo_website.png" width="250">
 
-I'm a postdoc in the Data Science Institute at Brown University 🇺🇸, and I'm part of BATS lab 🦇 led by Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/). 
+I'm a postdoc in the Data Science Institute at Brown University 🇺🇸, and I work with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) in the BATS lab 🦇. 
 My research focuses on developing versatile and responsible AI systems, addressing both the practical challenges of adapting models to new tasks and the critical need to ensure the ethical and safe deployment of advanced AI technologies.
 
 I arrived at Brown as Visiting Ph.D. student and worked with [Eli Upfal](https://cs.brown.edu/people/eupfal/) and [Matteo Riondato](https://matteo.rionda.to/). In July 2021, I defended my Ph.D. thesis in [Computer Engineering](https://corsidilaurea.uniroma1.it/en/corso/2021/30430/home) from Sapienza University 🇮🇹, advised by [Aris Anagnostopoulos](http://aris.me/) and [Stefano Leonardi](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/home).
