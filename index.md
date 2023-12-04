@@ -3,7 +3,7 @@ layout: default
 ---
 
 Ciao visitor, this is Cristina! 👋
-<img align='right' src="/images/photo_website_new" width="250">
+<img align='right' src="/images/photo_website_new.png" width="250">
 
 I'm a postdoc in the Data Science Institute at Brown University 🇺🇸, and I work with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) in the BATS lab 🦇. 
 My research focuses on developing versatile and responsible AI systems, addressing both the practical challenges of adapting models to new tasks and the critical need to ensure the ethical and safe deployment of advanced AI technologies.
