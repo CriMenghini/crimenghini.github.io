@@ -39,12 +39,12 @@ Before that, I got a bachelor's degree in Statistics, Economics, and Finance at 
 ## 📝 Publications
 
 1. **Low-Resource Languages Jailbreak GPT-4**  
-_Under review_      
+_NeurIPS 2023, SoLaR Workshop_ - 🏆 <span style="color:rgba(109, 16, 130, 0.677)">**Best Paper Award (Spotlight)**</span>        
 Z.-X. Yong, <u>C. Menghini</u>, S. H. Bach  
 [[pdf](https://arxiv.org/abs/2310.02446)]
 
 2. **Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning**  
-_To be appearing at NeurIPS 2023_      
+_NeurIPS 2023_      
 <u>C. Menghini</u>, A. Delworth, S. H. Bach  
 [[pdf](https://arxiv.org/abs/2306.01669)][[code](https://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
 
