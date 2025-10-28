@@ -7,7 +7,7 @@ Ciao visitor, this is Cristina! 👋
 
 I'm a senior researcher at Meta Superintelligence Labs where I'm part of the Preparedness team and lead loss of control risk assessments for frontier AI models. Working in AI now is not just exciting, but also a huge responsibility. My work aims at steering AI development in the right direction and assessing catastrophic risks that might arise from AI deployment in both the short and long run.
 
-I joined Meta recently, after the [Scale AI acquisition](https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution). During my time at Scale, I focused on building evaluations, among which [Remote Labor Index (RLI)](), [MASK](https://www.mask-benchmark.ai/), [EnigmaEval](https://arxiv.org/pdf/2502.08859), [VISTA](https://scale.com/leaderboard/visual_language_understanding), and broadly led the development of [SEAL leaderboards](https://scale.com/leaderboard). 
+I joined Meta recently, after the [Scale AI investment](https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution). During my time at Scale, I focused on building evaluations, among which [Remote Labor Index (RLI)](), [MASK](https://www.mask-benchmark.ai/), [EnigmaEval](https://arxiv.org/pdf/2502.08859), [VISTA](https://scale.com/leaderboard/visual_language_understanding), and broadly led the development of [SEAL leaderboards](https://scale.com/leaderboard). 
 
 Previously, I did my postdoc at the [BATS lab](https://cs.brown.edu/people/sbach/index.html#bats) 🦇 and the Data Science Institute at Brown University 🇺🇸, where I worked with Prof. [Stephen Bach](https://cs.brown.edu/people/sbach/) on model adaptation with limited labeled data. 
 
